@@ -1,0 +1,3 @@
+/home/joseph/Escritorio/practicaExamen/sort/build/CMakeFiles/rebuild_cache.dir
+/home/joseph/Escritorio/practicaExamen/sort/build/CMakeFiles/edit_cache.dir
+/home/joseph/Escritorio/practicaExamen/sort/build/CMakeFiles/exe.dir
